@@ -31,7 +31,7 @@ export default function MainLayout() {
         <Container>
           <Logo sx={{ mb: 1, mx: 'auto' }} />
           <Typography variant="caption" component="p">
-            <Link href="#">admin@admin.com</Link>
+            <Link href="_blank">admin@admin.com</Link>
           </Typography>
         </Container>
       </Box>
